@@ -2,7 +2,7 @@
   "profiles": {
     "MergeCsvs": {
       "commandName": "Project",
-      "commandLineArgs": "-f \"C:\\Scratch\\CVDACTIONMerge\""
+      "commandLineArgs": "-f \"C:\\Users\\razat\\OneDrive\\dev\\CVDAMerge\\csvs\""
     }
   }
 }

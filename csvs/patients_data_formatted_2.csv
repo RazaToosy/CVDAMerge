@@ -1,0 +1,57 @@
+UniqueIdentifier,Firstname,Lastname,Age,Metric Short Name
+599 476 8339,Sarah,Jones,55,eGFR monitor Gp 2
+951 879 8913,Charles,Martin,98,HT & CVD high non-HDLc
+951 879 8913,Charles,Martin,98,eGFR monitor Gp 4
+899 767 7056,John,Robinson,95,BP (under 80) 160-179/100-119
+276 304 2710,Thomas,Martinez,53,eGFR monitor Gp 4
+190 068 8271,Robert,Rodriguez,61,CKD & DM or ACR>=22.6 no SGLT2i
+190 068 8271,Robert,Rodriguez,61,eGFR monitor Gp 2
+235 347 3240,John,Lewis,75,eGFR monitor Gp 4
+235 347 3240,John,Lewis,75,HT & CVD high non-HDLc
+917 930 7849,Robert,Harris,50,CKD & DM or ACR>=22.6 no SGLT2i
+917 930 7849,Robert,Harris,50,BP>180/120
+540 883 5998,Richard,Brown,73,CKD with 25% fall in eGFR
+540 883 5998,Richard,Brown,73,CKD & CVD not on LLT
+540 883 5998,Richard,Brown,73,CKD & HT & ACR>70 BP>130
+576 807 7732,Mary,Jackson,35,CKD & CVD high non-HDLc
+576 807 7732,Mary,Jackson,35,BP>180/120
+576 807 7732,Mary,Jackson,35,eGFR monitor Gp 2
+759 712 9219,Linda,Clark,29,BP>180/120
+759 712 9219,Linda,Clark,29,eGFR monitor Gp 1
+760 067 2399,Charles,Moore,52,CKD & DM & ACR>=3 no RAA
+420 603 7902,Jennifer,Clark,35,BP>180/120
+038 488 5033,Patricia,Lewis,53,CKD & DM & ACR>=3 no RAA
+038 488 5033,Patricia,Lewis,53,CKD & HT & ACR>70 BP>130
+152 068 0388,Sarah,Martinez,41,CKD & CVD not on LLT
+152 068 0388,Sarah,Martinez,41,CKD & HT & ACR>=30 no RAA
+302 228 9764,John,Johnson,32,CKD & ACR>=22.6 no RAA
+391 309 4450,Jessica,Moore,41,eGFR monitor Gp 3
+895 495 0972,Charles,White,90,eGFR monitor Gp 1
+851 339 8555,Daniel,Smith,59,CKD & CVD high non-HDLc
+541 092 9366,Jessica,Robinson,96,eGFR monitor Gp 2
+541 092 9366,Jessica,Robinson,96,CKD & ACR>=22.6 no RAA
+541 092 9366,Jessica,Robinson,96,CKD & CVD not on LLT
+440 864 6030,John,Harris,86,HT & CVD high non-HDLc
+440 864 6030,John,Harris,86,BP 160-179/100-119
+440 864 6030,John,Harris,86,eGFR monitor Gp 3
+227 373 3110,Barbara,Moore,21,eGFR monitor Gp 2
+227 373 3110,Barbara,Moore,21,eGFR monitor Gp 4
+227 373 3110,Barbara,Moore,21,CKD & ACR>=70 no RAA
+213 402 4526,Thomas,Miller,61,eGFR monitor Gp 4
+213 402 4526,Thomas,Miller,61,CKD & ACR>=22.6 no RAA
+213 402 4526,Thomas,Miller,61,CKD & CVD high non-HDLc
+460 914 3839,Richard,Thompson,40,CKD & CVD not on LLT
+530 290 7725,Daniel,Miller,31,CKD & HT & ACR<70 BP>140
+530 290 7725,Daniel,Miller,31,eGFR monitor Gp 1
+968 372 7706,Joseph,Harris,39,CKD & HT & ACR>70 BP>130
+440 489 3516,Mary,Garcia,46,CKD & CVD not on LLT
+440 489 3516,Mary,Garcia,46,CKD & HT & ACR<70 BP>140
+440 489 3516,Mary,Garcia,46,BP (under 80) 160-179/100-119
+911 875 4215,Mary,Miller,31,CKD & HT & ACR>=30 no RAA
+911 875 4215,Mary,Miller,31,eGFR monitor Gp 2
+911 875 4215,Mary,Miller,31,CKD & ACR>=22.6 no RAA
+926 928 4825,Michael,Smith,100,HT & CVD not on LLT
+678 565 5374,Charles,White,73,CKD & HT & ACR>=30 no RAA
+317 899 8076,Jennifer,Rodriguez,93,HT & CVD high non-HDLc
+317 899 8076,Jennifer,Rodriguez,93,CKD & ACR>=70 no RAA
+317 899 8076,Jennifer,Rodriguez,93,CKD & HT & ACR<70 BP>140

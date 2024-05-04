@@ -1,18 +1,31 @@
 <CVDATargets>
-    <Condition name="HYP">
-        <Targets>
-            <Target><![CDATA[BP (under 80) 140-159/90-99]]></Target>
-            <Target><![CDATA[BP (under 80) 160-179/100-119]]></Target>
-            <Target><![CDATA[HT & CVD not on LLT]]></Target>
-            <Target><![CDATA[HT & CVD high non-HDLc]]></Target>
-        </Targets>
-    </Condition>
-    <Condition name="CKD">
-        <Targets>
-            <Target><![CDATA[CKD & HT & ACR>70 BP>130]]></Target>
-            <Target><![CDATA[CKD & HT & ACR<70 BP>140]]></Target>
-            <Target><![CDATA[CKD & CVD not on LLT]]></Target>
-            <Target><![CDATA[CKD & CVD high non-HDLc]]></Target>
-        </Targets>
-    </Condition>
+	<Condition name="HYP">
+		<Targets>
+			<Target><![CDATA[BP (under 80) 140-159/90-99]]></Target>
+			<Target><![CDATA[BP (under 80) 160-179/100-119]]></Target>
+			<Target><![CDATA[HT & CVD not on LLT]]></Target>
+			<Target><![CDATA[HT & CVD high non-HDLc]]></Target>
+			<Target><![CDATA[BP 160-179/100-119]]></Target>
+			<Target><![CDATA[BP>180/120]]></Target>
+		</Targets>
+	</Condition>
+	<Condition name="CKD">
+		<Targets>
+			<Target><![CDATA[CKD & HT & ACR>70 BP>130]]></Target>
+			<Target><![CDATA[CKD & HT & ACR<70 BP>140]]></Target>
+			<Target><![CDATA[CKD & CVD not on LLT]]></Target>
+			<Target><![CDATA[CKD & CVD high non-HDLc]]></Target>
+			<Target><![CDATA[CKD no ACR]]></Target>
+			<Target><![CDATA[CKD & DM or ACR>=22.6 no SGLT2i]]></Target>
+			<Target><![CDATA[eGFR monitor Gp 4]]></Target>
+			<Target><![CDATA[eGFR monitor Gp 3]]></Target>
+			<Target><![CDATA[eGFR monitor Gp 2]]></Target>
+			<Target><![CDATA[eGFR monitor Gp 1]]></Target>
+			<Target><![CDATA[CKD with 25% fall in eGFR]]></Target>
+			<Target><![CDATA[CKD & DM & ACR>=3 no RAA]]></Target>
+			<Target><![CDATA[CKD & ACR>=70 no RAA]]></Target>
+			<Target><![CDATA[CKD & ACR>=22.6 no RAA]]></Target>
+			<Target><![CDATA[CKD & HT & ACR>=30 no RAA]]></Target>
+		</Targets>
+	</Condition>
 </CVDATargets>
